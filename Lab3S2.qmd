@@ -1,0 +1,9 @@
+---
+title: "Lab3S2"
+format: html
+---
+
+```{r}
+palmerpenguins::penguins
+```
+
